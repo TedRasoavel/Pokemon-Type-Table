@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.welcome {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background-image: url(../../public/images/temp-background.jpg);
+  background-size: cover;
+  text-align: center;
+  align-items: center;
+  display: inline-block;
+  color : grey;
+  max-width: 40%;
+}

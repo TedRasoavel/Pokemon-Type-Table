@@ -1,0 +1,7 @@
+body {
+  align-items: center;
+  background: radial-gradient(circle, 
+  rgba(255,218,67,1) 0%, rgba(238,201,35,1) 11%, 
+  rgba(238,147,35,1) 30%, rgba(238,35,152,1) 55%, 
+  rgba(139,19,208,1) 73%, rgba(0,21,121,1) 100%);
+}
